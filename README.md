@@ -1,7 +1,7 @@
 ### Hi there 👋, Sidharth Here!
 #### I am Blockchain And Frontend Developer
 
-![I am Blockchain And Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Blockchain And Frontend Developer](https://github.com/Galact07/Galact07/blob/main/banner.png)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galact07)](https://github.com/anuraghazra/github-readme-stats)
