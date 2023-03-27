@@ -1,3 +1,20 @@
-### Hi there 👋
+### Hi there 👋, Sidharth Here!
+#### I am Blockchain And Frontend Developer
+
+![I am Blockchain And Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galact07)](https://github.com/anuraghazra/github-readme-stats)
+
+I am a computer engineering student with a passion for achieving my goals and aspirations in life. As a student, I am highly motivated to excel in my academic pursuits and constantly seek to improve my skills and knowledge. In my free time, I enjoy exploring new places and and learn about the world around me. I love playing football, which provides me with an opportunity to stay active, relieve stress. Overall, I am a driven individual with a zest for life and a strong desire to make a positive impact on the world.
+
+Skills: SOLIDITY / THREE.JS / WEB3 / HARDHAT / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on NFT MARKETPLACE PROJECT 
+- 🌱 I’m currently learning Three js And Framer Motion 
+- 👯 I’m looking to collaborate on Blockchain And Front-End related Projects 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Galact07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/galact07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sidharth-nair-2056a01bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sidnair07//)  
+
+
