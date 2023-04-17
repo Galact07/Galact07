@@ -5,7 +5,7 @@
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=galact07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=galact07&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=galact07&show_icons=true&theme=default#gh-light-mode-only)]<br/>(https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galact07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I am a computer engineering student with a passion for achieving my goals and aspirations in life. As a student, I am highly motivated to excel in my academic pursuits and constantly seek to improve my skills and knowledge. In my free time, I enjoy exploring new places and and learn about the world around me. I love playing football, which provides me with an opportunity to stay active, relieve stress. Overall, I am a driven individual with a zest for life and a strong desire to make a positive impact on the world.
