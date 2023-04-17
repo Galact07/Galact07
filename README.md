@@ -16,9 +16,11 @@ Skills: SOLIDITY / THREE.JS / WEB3 / HARDHAT / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Three js And Framer Motion 
 - 👯 I’m looking to collaborate on Blockchain And Front-End related Projects 
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/galact07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="galact07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sidharth-nair-2056a01bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth-nair-2056a01bb/" height="30" width="40" /></a>
+<a href="https://instagram.com/sidnair07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidnair07/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sidnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sidnair" height="30" width="40" /></a>
 </p>
 
