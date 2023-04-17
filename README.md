@@ -16,6 +16,12 @@ Skills: SOLIDITY / THREE.JS / WEB3 / HARDHAT / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Three js And Framer Motion 
 - 👯 I’m looking to collaborate on Blockchain And Front-End related Projects 
 
+<p align="left">
+<a href="https://dev.to/galact07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="galact07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sidharth-nair-2056a01bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth-nair-2056a01bb/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@sidnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sidnair" height="30" width="40" /></a>
+</p>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Galact07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/galact07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sidharth-nair-2056a01bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sidnair07//)  
 
