@@ -1,5 +1,5 @@
 ### Hi there 👋, Sidharth Here!
-#### I am a Blockchain & Frontend Developer
+#### I am a Web & Blockchain Developer
 
 ![I am Blockchain And Frontend Developer](https://github.com/Galact07/Galact07/blob/main/banner.png)
 
