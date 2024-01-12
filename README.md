@@ -1,7 +1,7 @@
 ### Hi there 👋, Sidharth Here!
 #### I am a Full Stack Developer & Business Data Analyst
 
-![I am Blockchain And Frontend Developer](https://github.com/Galact07/Galact07/blob/main/banner.png)
+![I am Blockchain And Frontend Developer](https://github.com/Galact07/Galact07/blob/main/newgithubbanner.png)
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=galact07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
