@@ -1,5 +1,5 @@
 ### Hi there 👋, Sidharth Here!
-#### I am a Web & Blockchain Developer
+#### I am a Full Stack Developer & Business Data Analyst
 
 ![I am Blockchain And Frontend Developer](https://github.com/Galact07/Galact07/blob/main/banner.png)
 
@@ -13,9 +13,9 @@ I am a computer engineering student with a passion for achieving my goals and as
 
 Skills: SOLIDITY / THREE.JS / WEB3 / HARDHAT / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on NFT MARKETPLACE PROJECT 
-- 🌱 I’m currently learning Three js And Framer Motion 
-- 👯 I’m looking to collaborate on Blockchain And Front-End related Projects 
+- 🔭 I’m currently working on full stack Eccommerce Website 
+- 🌱 I’m currently learning SEO And GoLang 
+- 👯 I’m looking to collaborate on Full Stack Development & Business Data Analyst related Projects 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
