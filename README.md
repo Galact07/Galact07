@@ -1,5 +1,5 @@
 ### Hi there 👋, Sidharth Here!
-#### I am a Full Stack Developer & Business Data Analyst
+#### I am a Full Stack Developer & UI/UX Designer
 
 ![I am Blockchain And Frontend Developer](https://github.com/Galact07/Galact07/blob/main/newgithubbanner.png)
 
